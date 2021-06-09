@@ -57,7 +57,7 @@ In this task, we will create a Windows Server 2019 Datacenter virtual machine.
 
 In this task, we will create a network security group and associate it with the network interface. 
 
-1. From the **All services** blade, search for and select **Network security groups** and then click **+ Add, + Create, + New**
+1. From the **All services** blade, search for and select **Network security groups** (be careful not to select **Network security groups (classic)**) and then click **+ Add, + Create, + New**
 
 2. On the **Basics** tab of the **Create network security group** blade, specify the following settings.
 
@@ -72,7 +72,7 @@ In this task, we will create a network security group and associate it with the 
 
 4. After the NSG is created, click **Go to resource**.
 
-5. Under **Settings** click **Network interfaces** and then **+ Associate**.
+5. Under the **Settings** blade click **Network interfaces** and then **+ Associate**.
 
 6. Select the network interface you identified in the previous task. 
 
